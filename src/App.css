@@ -1,0 +1,22 @@
+.App {
+  height: 100%;
+  /* The image used */
+}
+
+.card {
+  background-color: #d3d3d3;
+}
+.Navbar {
+  padding-bottom: 50px;
+}
+.Navbar.Brand {
+  color: aliceblue;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
